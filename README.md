@@ -1,7 +1,3 @@
-Here's a proposal for the README in English:
-
----
-
 # CodePeak - Script for Hiding License Plates in FiveM
 
 ## Description
